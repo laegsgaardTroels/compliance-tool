@@ -1,3 +1,6 @@
+"""Used to generate the `data/sample` file.
+"""
+
 import requests
 import json
 
@@ -50,7 +53,7 @@ def main():
             headers=HEADERS,
         )
     )
-    with open('sample', 'wb') as f:
+    with open('data/sample', 'wb') as f:
         for chunk in response:
             f.write(chunk)
 

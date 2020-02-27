@@ -62,7 +62,7 @@ Companies House is Great Britains CVR register. They have endpoints for download
 
 ## PEP Lists
 
-PEP lists can be found at [1]
+Politically exposed person lists can be found at [1].
 
 #### Source
 

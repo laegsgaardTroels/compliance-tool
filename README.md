@@ -39,3 +39,15 @@ Registret indeholder oplysninger om de virksomheder, som Finanstilsynet har unde
 
     [1] http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata
     [2] http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data
+
+
+## Companies House
+
+Companies House is Great Britains CVR register. They have endpoints for downloading data in [1] and you can download a zip at [2]. An analysis of the data in [2] is found in [4]. Accounts data is available at [3].
+
+#### Source
+
+    [1] https://www.gov.uk/government/organisations/companies-house/about-our-services#uri-info
+    [2] http://download.companieshouse.gov.uk/en_output.html
+    [3] http://download.companieshouse.gov.uk/en_accountsdata.html
+    [4] https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2662301365741150/901133009736515/4813839007128744/latest.html

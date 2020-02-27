@@ -14,7 +14,6 @@ The Office of Foreign Assets Control (OFAC) of the US Department of the Treasury
 
 This database contains information on more than 785,000 offshore entities that are part of the Paradise Papers, the Panama Papers, the Offshore Leaks and the Bahamas Leaks investigations. The data links to people and companies in more than 200 countries and territories.
 
-
 #### Source
 
 The source of this data is data from a graphical Neo4j database freely available. 
@@ -33,13 +32,12 @@ Registret indeholder oplysninger om de virksomheder, som Finanstilsynet har unde
 
 ## CVR Register
 
-#### Source
-
 [1] does not require a token but [2] does.
+
+#### Source
 
     [1] http://datahub.virk.dk/dataset/system-til-system-adgang-til-regnskabsdata
     [2] http://datahub.virk.dk/dataset/system-til-system-adgang-til-cvr-data
-
 
 ## Companies House
 
@@ -51,3 +49,19 @@ Companies House is Great Britains CVR register. They have endpoints for download
     [2] http://download.companieshouse.gov.uk/en_output.html
     [3] http://download.companieshouse.gov.uk/en_accountsdata.html
     [4] https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2662301365741150/901133009736515/4813839007128744/latest.html
+
+## PEP Lists
+
+PEP lists can be found at [1]
+
+#### Source
+
+    [1] https://data.virk.dk/aabne-data/inspiration/offentlige-datasaet/andre-data/pep-liste
+
+## EU Sanctions Lists
+
+List of European sanctions can be found at [1].
+
+#### Source
+
+    [1] https://data.virk.dk/aabne-data/inspiration/offentlige-datasaet/andre-data/eus-sanktionsliste

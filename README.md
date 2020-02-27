@@ -1,3 +1,13 @@
+# Similar Ideas
+
+## Digital AML
+
+Contains a seemingly nice solution with focus on the danish AML laws. Active since 2016.
+
+#### Source
+
+    [1] https://data.virk.dk/aabne-data/inspiration/cases/paa-sporet-af-hvidvask
+
 # Data
 
 Data used to search for suspicious entities.
